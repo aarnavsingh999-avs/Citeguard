@@ -42,6 +42,10 @@ venv.bak/
 .mpl_config/
 .matplotlib/
 
+# Raw video recordings & temp processing artifacts
+video_1.mp4
+temp_video/
+
 # IDE & OS artifacts
 .vscode/
 .idea/

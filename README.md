@@ -63,8 +63,19 @@ campus-helpdesk-assistant/
     ├── architecture_diagram.png       # Generated via matplotlib
     ├── CiteGuardAI_TechnicalReport.pdf # Comprehensive technical report
     ├── M2_[TEAM_ID]_CampusHelpdeskAssistant.pdf # Milestone 2 submission document
-    └── M2_T14_CampusHelpdeskAssistant.pdf       # Instantiated Milestone 2 submission PDF
+    ├── M2_T14_CampusHelpdeskAssistant.pdf       # Instantiated Milestone 2 submission PDF
+    └── CiteGuardAI_DemoReel.mp4       # 118-second Rubric-Compliant HD Video Demo Reel
 ```
+
+---
+
+## 🎬 Video Demo Reel (118 Seconds / 1m 58s)
+
+A rubric-compliant, 1080p 60fps-equivalent narrated demo video is available at [`docs/CiteGuardAI_DemoReel.mp4`](file:///C:/Users/Prabhat%20Singh/Downloads/Citeguard%20Ai/campus-helpdesk-assistant/docs/CiteGuardAI_DemoReel.mp4) (Duration: 118.5 seconds, strictly within 90–150s):
+- **Part 1 — Problem & Architecture (0:00–0:16):** Scattered policy handbooks vs. LLM hallucination; section-aware RAG solution.
+- **Part 2 — Prompt Experiment: Before vs. After (0:16–0:52):** Version 1 ungrounded baseline vs. Version 3 verbatim quotes and deterministic refusal on the pet trap query.
+- **Part 3 — Live Working Demo (0:52–1:40):** 71% attendance query, tuition late fines, and corpus browsing across 4 handbooks.
+- **Part 4 — Progress & Next Steps (1:40–1:58):** 16/16 automated tests passed (100% score) + Milestone 3 Roadmap graphic.
 
 ---
 
