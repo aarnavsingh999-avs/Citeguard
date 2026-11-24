@@ -67,3 +67,14 @@
    - Suspension from the university for one full academic semester.
    - Formal disciplinary reprimand noted in student's conduct record.
 4. The Central Malpractice Inquiry Committee (CMIC) convenes within 10 days of exam completion to conduct hearings and pronounce final decisions.
+
+---
+
+## Section 1.6: Semester Course Registration and Credit Limits
+1. **Normal Semester Credit Load:** Every registered undergraduate student is normally expected to register for **20 to 22 credits** per semester.
+2. **Minimum Credit Limit:** A student must register for a minimum of **16 credits** in any regular semester to maintain full-time student status.
+3. **Maximum Credit Limit & Overloading:**
+   - A student with a cumulative grade point average (CGPA) of **8.00 or above** and no standing backlogs may petition to overload up to a maximum of **26 credits**.
+   - Students with standing backlogs or on academic probation are restricted to a maximum of **20 credits**.
+4. Course registration adjustments (add/drop window) close within **5 instructional days** from the start of semester classes. Underloading or exceeding 26 credits requires formal written approval from the Dean of Academic Affairs.
+

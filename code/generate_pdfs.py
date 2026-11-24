@@ -284,16 +284,16 @@ def build_technical_report_pdf(output_path: Path, image_path: Path):
     # Section 2: Policy Knowledge Corpus
     story.append(Paragraph("2. Policy Corpus Curation & Section-Aware Ingestion", styles["h1"]))
     story.append(Paragraph(
-        "The knowledge corpus comprises four authoritative institutional handbooks covering 20 discrete subsections:",
+        "The knowledge corpus comprises four authoritative institutional handbooks covering 21 discrete subsections:",
         styles["body"]
     ))
     
     corpus_table_data = [
         [Paragraph("Doc Code", styles["th"]), Paragraph("Handbook Title", styles["th"]), Paragraph("Key Policy Domains Covered", styles["th"]), Paragraph("Sections", styles["th"])],
-        [Paragraph("ACAD-REG-2024", styles["tb_code"]), Paragraph("Academic & Examination Rules", styles["tb"]), Paragraph("75% attendance, 65% debarment, medical condonation, grading, backlogs, UFM", styles["tb"]), Paragraph("5", styles["tb"])],
+        [Paragraph("ACAD-REG-2024", styles["tb_code"]), Paragraph("Academic & Examination Rules", styles["tb"]), Paragraph("75% attendance, 65% debarment, medical condonation, grading, backlogs, UFM, credit limits", styles["tb"]), Paragraph("6", styles["tb"])],
         [Paragraph("FIN-REF-2024", styles["tb_code"]), Paragraph("Fee Schedule & Refund Policy", styles["tb"]), Paragraph("Tuition payment, tiered late fees, UGC refund slabs (100% to 0%), caution deposit", styles["tb"]), Paragraph("4", styles["tb"])],
-        [Paragraph("HOST-REG-2024", styles["tb_code"]), Paragraph("Hostel & Mess Regulations", styles["tb"]), Paragraph("10 PM curfew, night out pass ERP workflow, prohibited appliances (kettles), mess rebate", styles["tb"]), Paragraph("5", styles["tb"])],
-        [Paragraph("LIB-IT-2024", styles["tb_code"]), Paragraph("Library & IT Services Guidelines", styles["tb"]), Paragraph("UG book limits (4 books/14 days), tiered overdue fines, Wi-Fi AUP, 150 printing quota", styles["tb"]), Paragraph("4", styles["tb"])],
+        [Paragraph("HOST-REG-2024", styles["tb_code"]), Paragraph("Hostel & Mess Regulations", styles["tb"]), Paragraph("10 PM curfew, night out pass, prohibited appliances (kettles), mess rebate, visitor rules", styles["tb"]), Paragraph("6", styles["tb"])],
+        [Paragraph("LIB-IT-2024", styles["tb_code"]), Paragraph("Library & IT Services Guidelines", styles["tb"]), Paragraph("UG book limits (4 books/14 days), overdue fines, Wi-Fi/VPN AUP, 150 printing quota, duplicate ID", styles["tb"]), Paragraph("5", styles["tb"])],
     ]
     ct = Table(corpus_table_data, colWidths=[80, 130, 240, 54])
     ct.setStyle(TableStyle([

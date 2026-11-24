@@ -57,3 +57,12 @@
 ## Section 3.5: Anti-Ragging Policy and Zero Tolerance Mandate
 1. In compliance with the Hon’ble Supreme Court of India directives and UGC Anti-Ragging Regulations, the university enforces **Zero Tolerance** towards ragging in any form (physical, verbal, psychological, or digital).
 2. Any student found engaging in, abetting, or conspiring in acts of ragging shall face immediate suspension from the university, forfeiture of hostel seat, and the immediate lodging of a **First Information Report (FIR)** with the local police under relevant penal laws.
+
+---
+
+## Section 3.6: Hostel Visitor Policy and Day Guest Regulations
+1. **Permitted Visitors:** Parents and designated immediate legal guardians are permitted to meet resident students exclusively in the designated Hostel Reception / Visitor Lounge.
+2. **Visiting Hours:** Visitors are allowed only between **10:00 AM and 07:00 PM** daily, subject to mandatory identity verification and signing the Entry Log at the security gate.
+3. **Strict Ban on Room Visits:** External visitors, parents, and non-resident students are strictly forbidden from entering student hostel rooms or residential wings under any circumstances.
+4. **Overnight Stay Prohibition:** Unauthorized overnight stay of guests or non-residents in hostel rooms is strictly prohibited. Violations result in an immediate monetary penalty of **Rs. 3,000 per night** levied on the host student and referral to the Proctorial Committee for eviction.
+

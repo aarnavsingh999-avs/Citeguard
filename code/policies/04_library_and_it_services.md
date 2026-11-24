@@ -31,13 +31,14 @@
 
 ---
 
-## Section 4.3: Campus Wi-Fi and Network Acceptable Use Policy (AUP)
+## Section 4.3: Campus Wi-Fi, VPN Access, and Network Acceptable Use Policy (AUP)
 1. **Network Authentication and Device Limits:**
    - Every student is assigned a unique 802.1X secure Wi-Fi credential linked to their institutional ID.
    - A student is permitted to register a maximum of **3 personal devices** (e.g., laptop, smartphone, tablet) on the campus wireless network.
    - Account credentials must remain confidential; sharing credentials with external parties or fellow students is a direct violation of IT policy.
-2. **Prohibited Network Activities:**
-   - Engaging in Peer-to-Peer (P2P) torrent downloads, unauthorized network scanning, running rogue DHCP servers, setting up personal wireless routers, or cryptocurrency mining is strictly forbidden.
+2. **Institutional VPN and Prohibited Activities:**
+   - Institutional GlobalProtect VPN access is provisioned for remote scholarly database and research portal access from off-campus.
+   - Using unauthorized commercial VPNs to bypass university firewall restrictions, engaging in Peer-to-Peer (P2P) torrent downloads, unauthorized network scanning, running rogue DHCP servers, or cryptocurrency mining is strictly forbidden.
    - The Central IT Firewall automatically monitors, filters, and logs malicious traffic patterns.
 3. **Disciplinary Sanctions for IT Violations:**
    - First violation results in an immediate **30-day MAC address ban** from the university network.
@@ -55,3 +56,15 @@
    - Official IT Support Portal: `https://helpdesk.campus.edu`
    - Email: `helpdesk@campus.edu`
    - Central Campus Extension: Ext. 4400 (Operating hours: 09:00 AM to 06:00 PM, Monday through Saturday).
+
+---
+
+## Section 4.5: Student Smart ID Card and Duplicate Card Reissuance
+1. **Mandatory RFID Smart ID Card:**
+   - Every enrolled student is issued a multi-utility RFID Smart ID Card at matriculation, required for gate biometric turnstiles, library borrowing, mess meal registration, and laboratory entry.
+2. **Loss or Physical Damage Protocol:**
+   - In case of loss or physical damage to the card, the student must immediately report the loss to the IT Helpdesk and submit Form ID-02 on the Student ERP along with an online police loss declaration / non-cognizable report (NCR).
+3. **Reissuance Fee and Timeline:**
+   - A non-refundable duplicate card reissuance fee of **Rs. 500** is levied, payable via the ERP payment gateway.
+   - The verified duplicate ID card is printed and issued by the Registrar’s Office within **3 working days** of receipt of application.
+
